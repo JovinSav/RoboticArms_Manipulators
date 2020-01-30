@@ -17,9 +17,13 @@ A robotic arm (not robotic hand) is a type of mechanical arm, usually programmab
 * ***Python modules***
     * *Numpy*
     * *Matplotlib*
-    * *Smympy*
+    * *Smypy*
     * *Pytorch*
     * *scikit-learn*
 
 ### Methodology
-*Create Workspace* ***From Forward Kinematics(FK)*** *which containis ***X Y Z*** *Cordinates and which created from mechanical motion constrains of of* ***Joint Variable Space*** *and using this FK work space Created as input Vector to the* ***Neural network*** *created using Pytorch and* ***Joint Variable Spcae*** *as outputs*.*Thus training the Network* and produce the result.
+*Create Workspace* ***From Forward Kinematics(FK)*** *which containis* ***X Y Z*** *Cordinates and which created from mechanical motion constrains of of* ***Joint Variable Space*** *and using this FK work space Created as input Vector to the* ***Neural network*** *created using Pytorch and* ***Joint Variable Spcae*** *as outputs*.*Thus training the Network and produce the result to predict* ***Joint Varibles***.
+
+#### Furture Updates Plans
+- *Improve Speed of Arm Class*
+- *Update with more variation of joints
