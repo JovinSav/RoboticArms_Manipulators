@@ -26,4 +26,4 @@ A robotic arm (not robotic hand) is a type of mechanical arm, usually programmab
 
 #### Furture Updates Plans
 - *Improve Speed of Arm Class*
-- *Update with more variation of joints
+- *Update with more variation of joints*
