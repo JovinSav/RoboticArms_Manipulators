@@ -2,6 +2,7 @@
 *This Repository is used for beginner to do IK  of any Manipulator Robots of Configurations of with combinations of Rotational and Prismatics Joints*
 
 # Problem Statement
+To find Out The Inverse Kinematic Equations of Robotic Arm Using Neural Network Supervised Leraning Methods
 
 
 ## About Manipulators
